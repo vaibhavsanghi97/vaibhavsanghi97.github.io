@@ -1,2 +1,3 @@
-Run the program by 
+Run the program by running this
+
 node server.js
